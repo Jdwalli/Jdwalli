@@ -4,6 +4,7 @@
   <h4 align="center"> 
     I am currently an Undergrad Student @ Howard University studying CS. I am passionate about learning and exploring the multi-facets of CS. 
     I enjoy creating interesting programs that serve a variety of different purposes.
+    My primary languages are Python and React
   </h4>
 
 <!-- Social Media -->
