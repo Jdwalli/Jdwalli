@@ -2,9 +2,8 @@
 <p align="center">
   <h1 with="100px" align="center">Hey, I'm Joshua!👋🏾</h1>
   <h4 align="center"> 
-    I am currently an Undergrad Student @ Howard University studying CS. I am passionate about learning and exploring the multi-facets of CS. 
-    I enjoy creating interesting programs that serve a variety of different purposes.
-    My primary languages are Python, TypeScript (React), and C
+    I am currently an undergraduate student @ Howard University studying CS.
+    My primary languages are Python, C, and C++
   </h4>
 
 <!-- Social Media -->
