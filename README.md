@@ -2,8 +2,7 @@
 <p align="center">
   <h1 with="100px" align="center">Hey, I'm Joshua!👋🏾</h1>
   <h4 align="center"> 
-    I am currently an undergraduate student @ Howard University studying CS.
-    My primary languages are Python, C, and C++
+   
   </h4>
 
 <!-- Social Media -->
